@@ -49,7 +49,7 @@ public class BSTMain {
     }
     
     /**
-     * @param args the command line arguments
+     * @param args the command line arguments//
      */
     public static void main(String[] args) {
        BSTMain bmain = new BSTMain();
