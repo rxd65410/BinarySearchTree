@@ -24,6 +24,7 @@ public class BSTMain {
         int choice = scan.nextInt(); 
         switch (choice)
             {
+                //test3
             case 1 : 
                 System.out.println("Enter integer element to insert : ");
                 bst.insert(scan.nextInt());                     
